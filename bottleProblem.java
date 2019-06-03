@@ -30,6 +30,6 @@ public static boolean [][] bottleProblem(int n,int m){
     return matrix;
 }
 public static int findeIndex(int i,int j, int p){
-    return p*i+j
+    return p*i+j;
 }
 }
